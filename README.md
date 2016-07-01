@@ -1,2 +1,5 @@
 # Hello-world
-just another repository
+
+Hi everyone!
+
+Roman Kharkhalis here, I like Phyton
